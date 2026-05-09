@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/ZeynepBeautyWebsite_public/sitemap-index.xml
+Sitemap: https://zeynepbeautycenter.com/sitemap-index.xml
